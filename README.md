@@ -17,3 +17,8 @@ Simple script to batch hide multiple files inside any normal file.
 v1: [YouTube](https://www.youtube.com/watch?v=oqLx5gnkxCc)
 
 v2: Soon:tm:
+
+### Things you can't use as containers:
+- Word Documents (Will corrupt them)
+- Excel Fiels (Will corrupt them)
+- I'll provide more after testing
